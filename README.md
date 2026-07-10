@@ -1,26 +1,23 @@
-# DVWA-Web-Security-Lab
-DVWA-Web-Security-Lab/
-│
-├── README.md
-├── Report/
-│   └── Security_Testing_Report.pdf
+# DVWA Web Security Testing
 
-│
-├── SQL-Injection/
-│   ├── README.md
-│   ├── screenshots/
-│   ├── payloads.txt
-│
+## Objective
 
-├── XSS/
-│   ├── README.md
-│   ├── screenshots/
-│
+This project demonstrates common web application vulnerabilities using DVWA.
 
-├── CSRF/
-│   ├── README.md
-│   ├── screenshots/
-│
+## Vulnerabilities Covered
 
-└── Mitigation/
-    └── README.md
+- SQL Injection
+- Stored XSS
+- Reflected XSS
+- CSRF
+
+## Environment
+
+- Kali Linux
+- Apache2
+- MariaDB
+- DVWA
+
+## Disclaimer
+
+This project was performed only in a controlled laboratory environment for educational purposes.
